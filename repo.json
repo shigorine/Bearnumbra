@@ -18,9 +18,9 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/shigorine/arbmuneP/releases/download/yessir/arbmunePv1.zip",
-    "DownloadLinkTesting": "https://github.com/shigorine/arbmuneP/releases/download/yessir/arbmunePv1.zip",
-    "DownloadLinkUpdate": "https://github.com/shigorine/arbmuneP/releases/download/yessir/arbmunePv1.zip",
+    "DownloadLinkInstall": "https://github.com/shigorine/arbmuneP/releases/download/yessir/Bearnumbra.zip",
+    "DownloadLinkTesting": "https://github.com/shigorine/arbmuneP/releases/download/yessir/Bearnumbra.zip",
+    "DownloadLinkUpdate": "https://github.com/shigorine/arbmuneP/releases/download/yessir/Bearnumbra.zip",
     "IconUrl": "https://raw.githubusercontent.com/shigorine/arbmuneP/master/images/icon.png"
   }
 ]
