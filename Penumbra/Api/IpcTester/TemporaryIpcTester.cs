@@ -251,7 +251,7 @@ public class TemporaryIpcTester(
             var character = tempCollections.Collections.Where(p => p.Collection == collection).Select(p => p.DisplayName)
                     .FirstOrDefault()
              ?? "Unknown";
-            if (_debug && ImUtf8.Button("Save##Collection"u8))
+            if (_debug && ImGui.Button("Save##Collection"u8))
                 TemporaryMod.SaveTempCollection(config, saveService, modManager, collection, character);
 
             using (ImRaii.PushFont(UiBuilder.MonoFont))
