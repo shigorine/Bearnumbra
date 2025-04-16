@@ -1,10 +1,10 @@
 [
   {
     "Author": "Someone",
-    "Name": "Bearnumbra",
+    "Name": "arbmuneP",
     "Punchline": "Runtime mod loader and manager.",
     "Description": "Runtime mod loader and manager.",
-    "InternalName": "Bearnumbra",
+    "InternalName": "arbmuneP",
     "AssemblyVersion": "69.420",
     "TestingAssemblyVersion": "69.420",
     "RepoUrl": "https://github.com/shigorine/arbmuneP",
