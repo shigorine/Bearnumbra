@@ -5,8 +5,8 @@
     "Punchline": "Runtime mod loader and manager.",
     "Description": "Runtime mod loader and manager.",
     "InternalName": "Bearnumbra",
-    "AssemblyVersion": "1.3.6.8",
-    "TestingAssemblyVersion": "1.3.6.8",
+    "AssemblyVersion": "69.420",
+    "TestingAssemblyVersion": "69.420",
     "RepoUrl": "https://github.com/shigorine/arbmuneP",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
@@ -21,6 +21,6 @@
     "DownloadLinkInstall": "https://github.com/shigorine/arbmuneP/releases/download/yessir/arbmunePv1.zip",
     "DownloadLinkTesting": "https://github.com/shigorine/arbmuneP/releases/download/yessir/arbmunePv1.zip",
     "DownloadLinkUpdate": "https://github.com/shigorine/arbmuneP/releases/download/yessir/arbmunePv1.zip",
-    "IconUrl": "https://github.com/shigorine/arbmuneP/blob/master/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/shigorine/arbmuneP/master/images/icon.png"
   }
 ]
