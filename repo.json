@@ -7,7 +7,7 @@
     "InternalName": "Bearnumbra",
     "AssemblyVersion": "69.420",
     "TestingAssemblyVersion": "69.420",
-    "RepoUrl": "https://github.com/shigorine/arbmuneP",
+    "RepoUrl": "https://github.com/shigorine/Bearnumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
     "TestingDalamudApiLevel": 12,
@@ -18,9 +18,9 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/shigorine/arbmuneP/releases/download/nosir/Bearnumbrav1.zip",
-    "DownloadLinkTesting": "https://github.com/shigorine/arbmuneP/releases/download/nosir/Bearnumbrav1.zip",
-    "DownloadLinkUpdate": "https://github.com/shigorine/arbmuneP/releases/download/nosir/Bearnumbrav1.zip",
+    "DownloadLinkInstall": "https://github.com/shigorine/Bearnumbra/releases/download/nosir/Bearnumbrav1.zip",
+    "DownloadLinkTesting": "https://github.com/shigorine/Bearnumbra/releases/download/nosir/Bearnumbrav1.zip",
+    "DownloadLinkUpdate": "https://github.com/shigorine/Bearnumbra/releases/download/nosir/Bearnumbrav1.zip",
     "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png"
   }
 ]
