@@ -4,7 +4,7 @@
     "Name": "arbmuneP",
     "Punchline": "Runtime mod loader and manager.",
     "Description": "Runtime mod loader and manager.",
-    "InternalName": "Penumbra",
+    "InternalName": "arbmuneP",
     "AssemblyVersion": "1.3.6.8",
     "TestingAssemblyVersion": "1.3.6.8",
     "RepoUrl": "https://github.com/shigorine/arbmuneP",
