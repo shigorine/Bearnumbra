@@ -1,10 +1,10 @@
 [
   {
     "Author": "Someone",
-    "Name": "arbmuneP",
-    "Punchline": "Runtime mod loader and manager.",
-    "Description": "Runtime mod loader and manager.",
-    "InternalName": "arbmuneP",
+    "Name": "Bearnumbra",
+    "Punchline": "Its a number made out bears idk",
+    "Description": "Its a number made out bears idk",
+    "InternalName": "Bearnumbra",
     "AssemblyVersion": "69.420",
     "TestingAssemblyVersion": "69.420",
     "RepoUrl": "https://github.com/shigorine/arbmuneP",
@@ -18,9 +18,9 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/shigorine/arbmuneP/releases/download/yessir/arbmunePv1.zip",
-    "DownloadLinkTesting": "https://github.com/shigorine/arbmuneP/releases/download/yessir/arbmunePv1.zip",
-    "DownloadLinkUpdate": "https://github.com/shigorine/arbmuneP/releases/download/yessir/arbmunePv1.zip",
+    "DownloadLinkInstall": "https://github.com/shigorine/arbmuneP/releases/download/nosir/Bearnumbrav1.zip",
+    "DownloadLinkTesting": "https://github.com/shigorine/arbmuneP/releases/download/nosir/Bearnumbrav1.zip",
+    "DownloadLinkUpdate": "https://github.com/shigorine/arbmuneP/releases/download/nosir/Bearnumbrav1.zip",
     "IconUrl": "https://raw.githubusercontent.com/shigorine/arbmuneP/master/images/icon.png"
   }
 ]
