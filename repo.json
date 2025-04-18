@@ -18,9 +18,9 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/shigorine/Bearnumbra/releases/download/yessir/Bearnumbra.zip",
-    "DownloadLinkTesting": "https://github.com/shigorine/Bearnumbra/releases/download/yessir/Bearnumbra.zip",
-    "DownloadLinkUpdate": "https://github.com/shigorine/Bearnumbra/releases/download/yessir/Bearnumbra.zip",
+    "DownloadLinkInstall": "https://github.com/shigorine/Bearnumbra/releases/download/yessir/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/shigorine/Bearnumbra/releases/download/yessir/Penumbra.zip",
+    "DownloadLinkUpdate": "https://github.com/shigorine/Bearnumbra/releases/download/yessir/Penumbra.zip",
     "IconUrl": "https://raw.githubusercontent.com/shigorine/Bearnumbra/master/images/icon.png"
   }
 ]
